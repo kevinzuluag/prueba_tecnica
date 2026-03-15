@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "María García",
+    "email": "maria.garcia@outlook.com",
+    "phone": "+1 849 555 6777",
+    "city": "Santo Domingo",
+    "country": "República Dominicana",
+    "company": "TechCorp"
+  },
+  {
+    "id": "2",
+    "name": "Carlos López",
+    "email": "carlos.lopez@startup.io",
+    "phone": "+1 809 908 1223",
+    "city": "Puerto Plata",
+    "country": "República Dominicana",
+    "company": "InnovateLab"
+  },
+  {
+    "id": "3",
+    "name": "Ana Martínez",
+    "email": "ana.martinez@consulting.es",
+    "phone": "+1 849 333 4544",
+    "city": "Santo Domingo",
+    "country": "República Dominicana",
+    "company": "TechCorp"
+  },
+  {
+    "id": "4",
+    "name": "Pedro Sánchez",
+    "email": "pedro.sanchez@design.co",
+    "phone": "+1 8098943322",
+    "city": "Santiago",
+    "country": "República Dominicana",
+    "company": "DesignStudio"
+  },
+  {
+    "id": "5",
+    "name": "Laura Fernández",
+    "email": "laura.fernandez@data.ai",
+    "phone": "+1 8494457666",
+    "city": "Puerto Plata",
+    "country": "República Dominicana",
+    "company": "InnovateLab"
+  }
+]
