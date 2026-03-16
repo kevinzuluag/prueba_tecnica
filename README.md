@@ -63,7 +63,7 @@ npm run dev
 
 - **Listar usuarios** desde un JSON; la capa de modelo está aislada por si luego se cambia a base de datos.
 - **Buscar en tiempo real** por nombre, email, teléfono, ciudad o empresa (debounce 300 ms).
-- **Filtrar** por ciudad y por empresa mediante desplegables que se actualizan al crear o eliminar usuarios.
+- **Filtrar** por pais, ciudad y por empresa mediante desplegables que se actualizan al crear o eliminar usuarios.
 - **Crear usuarios** con validación en frontend y backend (nombre, email obligatorios; teléfono opcional con formato por país).
 - **Editar y eliminar usuarios** desde el modal de detalle.
 
